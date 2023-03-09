@@ -10,7 +10,7 @@ fun isPrime(x: Int, i: Int = 2): String{
         else "is not a prime number"
     }
     if (x % i == 0) return "1 is not prime number"
-    if (i * i > x) return "7 is prime number"
+    if (i * i > x) return "7 is prime  number"
     return isPrime(x, i + 1)
 }
 
