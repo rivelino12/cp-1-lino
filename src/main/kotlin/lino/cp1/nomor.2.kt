@@ -1,4 +1,4 @@
-package lino
+package lino.cp1
 
 
 fun main() {
